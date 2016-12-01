@@ -22,3 +22,6 @@
 
 config/environments/development.rb
 config/environments/production.rb
+config/database.yml
+config/secrets.yml
+db/schema.rb
